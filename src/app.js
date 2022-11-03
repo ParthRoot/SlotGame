@@ -65,8 +65,6 @@ while ("Stop") {
 
         console.log(`User Score= ${userScore1}`);
         console.log(`Owner Score:=${owenerScore} `);
-    } else if (selectOption === "Score") {
-        console.log("Score = 0");
     } else {
         console.log("Please select Valid options");
     }
