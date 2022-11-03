@@ -2,7 +2,7 @@ const utility = require("./utility");
 
 const readLineSync = require("readline-sync");
 
-console.log(" (1) Spin\n", "(2) Score\n");
+console.log(" (1) Spin\n");
 console.log("For exit you can press Ctrl + C\n");
 
 //store user score & owner score
